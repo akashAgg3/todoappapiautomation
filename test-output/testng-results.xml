@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3049" started-at="2020-01-25T09:29:02Z" finished-at="2020-01-25T09:29:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3049" started-at="2020-01-25T09:29:02Z" finished-at="2020-01-25T09:29:05Z">
+      <class name="com.todo.app.todoappapiautomation.AppTest">
+        <test-method status="PASS" signature="createTodo()[pri:0, instance:com.todo.app.todoappapiautomation.AppTest@2df32bf7]" name="createTodo" duration-ms="2814" started-at="2020-01-25T09:29:02Z" finished-at="2020-01-25T09:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTodo -->
+        <test-method status="PASS" signature="deleteTodo()[pri:0, instance:com.todo.app.todoappapiautomation.AppTest@2df32bf7]" name="deleteTodo" duration-ms="65" started-at="2020-01-25T09:29:05Z" finished-at="2020-01-25T09:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTodo -->
+        <test-method status="PASS" signature="testTodo()[pri:0, instance:com.todo.app.todoappapiautomation.AppTest@2df32bf7]" name="testTodo" duration-ms="78" started-at="2020-01-25T09:29:05Z" finished-at="2020-01-25T09:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTodo -->
+        <test-method status="PASS" signature="updateTodo()[pri:0, instance:com.todo.app.todoappapiautomation.AppTest@2df32bf7]" name="updateTodo" duration-ms="36" started-at="2020-01-25T09:29:05Z" finished-at="2020-01-25T09:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTodo -->
+      </class> <!-- com.todo.app.todoappapiautomation.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
